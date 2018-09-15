@@ -1,22 +1,23 @@
-- title: Indian Institute of Information Technology, Vadodara
-  deg: B Tech
-  startTime: 2014
-  endTime: Present
+- title: Yale University, New Haven, CT, USA
+  deg: M.A in International Development Economics
+  startTime: 2016
+  endTime: 2017
   courses:
-    - Computer Networks
-    - Computer Organisation
-    - Digital Logic Design
-    - Calculus
-    - DBMS
-    - Algorithms
+    - blah
 
-- title: Gyan Niketan, Patna
-  deg: 10+2
-  startTime: 2012
-  endTime: 2014
+- title: University of California Berkeley, Berkeley, CA, USA
+  deg: B.A in Economics with High Honors, Minor in Public Policy
+  startTime: 2013
+  endTime: 2016
   courses:
     - Physics
     - Chemistry
     - Mathematics
     - English
     - Computer Science
+
+  - title: Georgia Institute of Technology, Atlanta, GA, USA
+  deg: M.S in Analytics
+  startTime: 2018
+  endTime: Present
+  courses:
